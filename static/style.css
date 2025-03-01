@@ -22,8 +22,8 @@ body {
 }
 
 button {
-    background: #026CDF;
-    border: 1px solid #026CDF;
+    background: #1815c8;
+    border: 1px solid #1815c8;
     color: #FFF!important;
     border-radius: 6px;
     padding: 8px 12px;
@@ -84,7 +84,7 @@ div[for="card"] {
 }
 
 div[for="head"] {
-    background-color: #155fc8;
+    background-color: #1815c8;
     border-radius: 12px 12px 0 0;
     padding: 10px 8px;
     color:#fff;
@@ -95,9 +95,9 @@ div[for="head"] {
 }
 
 div[for="head_info"] {
-    background-color: #026cdf;
+    background-color: #1815c8;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-gap: 4px;
     padding: 15px 10px;
 }
@@ -117,7 +117,7 @@ div[for="head_info"] > div div:nth-child(1) {
 }
 
 div[for="head_info"] > div div:nth-child(2) {
-    font-size: 17px;
+    font-size: 16px;
     font-family: averta_semibold, sans-serif;
     font-weight: 700;
     /* text-align: left;
