@@ -22,8 +22,8 @@ body {
 }
 
 button {
-    background: #1815c8;
-    border: 1px solid #1815c8;
+    background: #026CDF;
+    border: 1px solid #026CDF;
     color: #FFF!important;
     border-radius: 6px;
     padding: 8px 12px;
@@ -84,7 +84,7 @@ div[for="card"] {
 }
 
 div[for="head"] {
-    background-color: #1815c8;
+    background-color: #155fc8;
     border-radius: 12px 12px 0 0;
     padding: 10px 8px;
     color:#fff;
@@ -95,7 +95,7 @@ div[for="head"] {
 }
 
 div[for="head_info"] {
-    background-color: #1815c8;
+    background-color: #026cdf;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 4px;
