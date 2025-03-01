@@ -95,7 +95,7 @@ div[for="head"] {
 }
 
 div[for="head_info"] {
-    background-color: #026cdf;
+    background-color: #155fc8;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 4px;
